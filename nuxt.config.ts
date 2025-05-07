@@ -15,7 +15,7 @@ export default defineNuxtConfig({
         }
       ]
     },
-    baseURL: process.env.NODE_ENV === 'production' ? '/nuxt-app/' : '/',
+    baseURL: process.env.NODE_ENV === 'production' ? '/present-ar/' : '/',
   },
   ssr: false,
 })
