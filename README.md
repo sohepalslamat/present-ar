@@ -1,75 +1,68 @@
-# Nuxt Minimal Starter
+# Present AR
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+A modern presentation application built with Nuxt.js that supports AR features. This application allows users to create and view presentations with augmented reality elements.
 
-## Setup
+## 🌟 Features
 
-Make sure to install dependencies:
+- Modern UI/UX design
+- Client-side rendering for optimal performance
+- Integration with Font Awesome icons
+- Chart.js integration for data visualization
+- Mermaid.js support for diagrams
+- Responsive layout for all devices
 
+## 🚀 Live Demo
+
+Visit the live application at: [https://sohepalslamat.github.io/present-ar/](https://sohepalslamat.github.io/present-ar/)
+
+## 🛠️ Tech Stack
+
+- [Nuxt 3](https://nuxt.com/) - The Vue.js Framework
+- [Vue.js 3](https://vuejs.org/) - The Progressive JavaScript Framework
+- [Chart.js](https://www.chartjs.org/) - Simple yet flexible JavaScript charting
+- [Mermaid](https://mermaid.js.org/) - JavaScript based diagramming and charting tool
+- [Font Awesome](https://fontawesome.com/) - Icon library and toolkit
+
+## 📦 Installation
+
+1. Clone the repository:
 ```bash
-# npm
+git clone https://github.com/sohepalslamat/present-ar.git
+cd present-ar
+```
+
+2. Install dependencies:
+```bash
 npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
 ```
 
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
+3. Run development server:
 ```bash
-# npm
 npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
 ```
 
-## Production
+The application will be available at `http://localhost:3000`
 
-Build the application for production:
+## 🚀 Building for Production
 
+1. Generate the static site:
 ```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
+npm run generate
 ```
 
-Locally preview production build:
-
+2. Preview the production build:
 ```bash
-# npm
 npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
 ```
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+## 📝 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+## 👨‍💻 Author
+
+- [Sohaib Alslamat](https://github.com/sohepalslamat)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/sohepalslamat/present-ar/issues).
